@@ -1,8 +1,14 @@
 {
-	"name": "hello",
-	"displayName": "hello",
+	"name": "githubrepomain",
+	"displayName": "Github Repo",
 	"description": "",
 	"version": "0.0.1",
+	"publisher": "PratushRai",
+	"icon": "logo.png",
+	"repository": {
+		  "type": "git",
+    	"url": "https://github.com/pratushrai0309/github-repo.git"
+	},
 	"engines": {
 		"vscode": "^1.68.0"
 	},
